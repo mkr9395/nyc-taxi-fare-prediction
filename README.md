@@ -1,9 +1,11 @@
-uber_lyft_price_prediction
+## Project Name : uber_lyft_price_prediction
 ==============================
 
-fare prediction for uber/lyft taxis
+#### Description : fare prediction for uber/lyft taxis
 
-Project Organization
+#### Data_url : https://www.kaggle.com/datasets/ravi72munde/uber-lyft-cab-prices
+
+## Project Organization
 ------------
 
     ├── LICENSE
