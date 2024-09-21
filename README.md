@@ -1,7 +1,7 @@
-nyc-taxi-fare-prediction
+uber_lyft_price_prediction
 ==============================
 
-fare prediction for nyc taxis
+fare prediction for uber/lyft taxis
 
 Project Organization
 ------------
